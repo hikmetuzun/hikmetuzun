@@ -18,13 +18,13 @@ Portfolio site: [Portfolio](https://www.uzunweb.com/)
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://www.javascript.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://www.w3.org/Style/CSS/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+
 
 
 **⛰ Looking forward to learn:** 
 
-<code><a href="https://developer.apple.com/swift/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></a></code>
-<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 
 <a href="https://github.com/hikmetuzun">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikmetuzun&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
