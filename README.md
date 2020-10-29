@@ -9,7 +9,7 @@ Portfolio site: [Portfolio](https://www.uzunweb.com/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-hikmetuzun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hikmet-uzun/)](https://www.linkedin.com/in/hikmet-uzun/) 
 [![Twitter Badge](https://img.shields.io/badge/-@hikmetuzun34-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hikmetuzun34)](https://twitter.com/hikmetuzun34) 
-[![Gmail Badge](https://img.shields.io/badge/-hikmetuzun34@hotmail.com-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:hikmetuzun34@hotmail.com)](mailto:hikmetuzun34@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-hikmetuzun34@gmail.com-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:hikmetuzun34@gmail.com)](mailto:hikmetuzun34@gmail.com)
 
 **👨🏻‍💻 Currently working on:** 
 
