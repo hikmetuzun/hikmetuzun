@@ -7,9 +7,9 @@ Portfolio site: [Portfolio](https://www.uzunweb.com/)
 
 **📫 Where to find me:** 
 
-[![Linkedin Badge](https://img.shields.io/badge/-erdemozk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erdemozk/)](https://www.linkedin.com/in/erdemozk/) 
-[![Twitter Badge](https://img.shields.io/badge/-@ErdemOzk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ErdemOzk)](https://twitter.com/ErdemOzk) 
-[![Gmail Badge](https://img.shields.io/badge/-erdemozkok@hotmail.com.tr-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:erdemozkok@hotmail.com.tr)](mailto:erdemozkok@hotmail.com.tr)
+[![Linkedin Badge](https://img.shields.io/badge/-hikmet-uzun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hikmet-uzun/)](https://www.linkedin.com/in/hikmet-uzun/) 
+[![Twitter Badge](https://img.shields.io/badge/-@hikmetuzun34-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hikmetuzun34)](https://twitter.com/hikmetuzun34) 
+[![Gmail Badge](https://img.shields.io/badge/-hikmetuzun34@hotmail.com-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:hikmetuzun34@hotmail.com)](mailto:hikmetuzun34@hotmail.com)
 
 **👨🏻‍💻 Currently working on:** 
 
